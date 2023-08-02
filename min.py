@@ -1,0 +1,5 @@
+s=int(input("enter 10 numbers"))
+m=s.min()
+m1=s.max()
+print(m)
+print(m1)
